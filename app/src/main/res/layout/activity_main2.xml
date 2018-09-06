@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:padding="50dp"
+    android:orientation="vertical"
+    android:background="@drawable/saitama"
+    android:weightSum="15"
+    tools:context=".Main2Activity">
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_weight="1"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:text="Category"
+
+        android:textColor="#ffff"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:backgroundTint="#00d6d286"
+        android:layout_marginBottom="5dp"
+        />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_weight="1"
+        android:layout_width="179dp"
+        android:layout_height="wrap_content"
+        android:text="Exit"
+        android:textColor="#fff"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:backgroundTint="#00d6d286"
+        android:layout_marginBottom="5dp"
+        />
+
+
+
+
+
+    <!--<Button-->
+    <!--android:id="@+id/button3"-->
+    <!--android:layout_width="168dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/button3"-->
+    <!--android:textSize="30sp"-->
+    <!--android:textStyle="bold"-->
+    <!--android:backgroundTint="#d6d286"-->
+    <!--android:layout_marginBottom="20dp"-->
+    <!--android:alpha="0.25"-->
+    <!--/>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/button4"-->
+    <!--android:layout_width="168dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/button4"-->
+    <!--android:textSize="30sp"-->
+    <!--android:textStyle="bold"-->
+    <!--android:backgroundTint="#d6d286"-->
+    <!--android:layout_marginBottom="20dp"-->
+    <!--/>-->
+
+    <!--<Button-->
+    <!--android:id="@+id/button5"-->
+    <!--android:layout_width="168dp"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="@string/button5"-->
+    <!--android:textSize="30sp"-->
+    <!--android:textStyle="bold"-->
+    <!--android:backgroundTint="#d6d286"-->
+    <!--android:layout_marginBottom="20dp"-->
+    <!--/>-->
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.iammike.engineeringbookapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/q"
+        android:label="Learning Engineering Books"
+        android:roundIcon="@drawable/q"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Main4Activity" />
+        <activity android:name=".Main5Activity" />
+        <activity android:name=".Main6Activity" />
+        <activity android:name=".Main7Activity" />
+        <activity android:name=".Main8Activity" />
+        <activity android:name=".book1" />
+        <activity android:name=".book2" />
+        <activity android:name=".book3" />
+        <activity android:name=".book4" />
+        <activity android:name=".book5" />
+        <activity android:name=".book6" />
+        <activity android:name=".book7" />
+        <activity android:name=".book8" />
+        <activity android:name=".book9" />
+        <activity android:name=".book10" />
+        <activity android:name=".book11" />
+
+        <activity android:name=".Main9Activity"/>
+        <activity android:name=".Main10Activity" />
+
+        <activity android:name=".Main11Activity" />
+
+
+
+    </application>
+
+</manifest>

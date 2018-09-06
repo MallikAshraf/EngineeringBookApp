@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">EngineeringBookApp</string>
+    <string name="title">Exit?</string>
+    <string name="msg">Are you sure?</string>
+    <string-array name="abc">
+        <item>An Introduction to the C Programming Language and Software Design</item>
+        <item>The C Book</item>
+        <item>C++ Language Tutorial</item>
+
+
+    </string-array>
+
+    <string-array name="def">
+        <item>INTRO TO JAVA</item>
+        <item>21 Days JAVA</item>
+        <item>TUTOPOINT JAVA</item>
+
+
+    </string-array>
+    <string-array name="zzz">
+        <item>INTRO TO Networking</item>
+        <item>Networking Fundamentals</item>
+        <item>Networking PPP</item>
+
+
+    </string-array>
+
+    <string-array name="eee">
+        <item>Principles Of EEE</item>
+        <item>EEE Fundamentals</item>
+
+
+
+    </string-array>
+</resources>
